@@ -152,16 +152,16 @@ client.on('group-participants-update', async (anu) => {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '❬❗❭AGUARDE  UM POUCO MANO❬❗❭',
-				success: '️❬ ✔ ❭ PRONTO SEU GAY 🖤',
+				wait: '❬❗❭PERA AE DOIDÃO',
+				success: '️❬ ✔ ❭ PRONTO NEM DEMOREI',
 				error: {
 					stick: 'Eu falhei :( desculpa',
 					Iv: 'Desculpe, o link está inválido☹️'
 				},
 				only: {
 					group: '❬❗❭ COMANDO SÓ PODE SER EXECUTADO EM GRUPOS❬❗❭ ',
-					ownerG: '❬❗❭ COMANDO EXCLUSIVO PARA O PROPRIETÁRIO DO BOT.❬❗❭ ',
-					ownerB: '❬❗❭  COMANDO EXCLUSIVO PARA O PROPRIETÁRIO DO BOT.❬❗❭  ',
+					ownerG: '❬❗❭ COMANDO EXCLUSIVO PARA O GUSTAKKK.❬❗❭ ',
+					ownerB: '❬❗❭  COMANDO EXCLUSIVO PARA O GUSTAKKK.❬❗❭  ',
 					admin: ' ❬ ⚠️ ❭ COMANDO PERMITIDO SOMENTE PARA ADMS ❬ ⚠️ ❭ ',
 					Badmin: '❬❗❭O BOT PRECISA SER ADEMAR ;3 '
 				}
